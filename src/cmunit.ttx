@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.8">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Converted by Andrey V. Panov from TeX fonts
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      CMU Typewriter Text
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Italic
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      FontForge 2.0 : CMU Typewriter Text Italic : 18-6-2009
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      CMU Typewriter Text Italic
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Version 0.7.0-msofix
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      CMUTypewriter-Italic
+    </namerecord>
+    <namerecord nameID="12" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      http://cm-unicode.sourceforge.net/
+    </namerecord>
+    <namerecord nameID="13" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied together with this font package in OFL.txt,
+and is also available with a FAQ at: http://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      http://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Converted by Andrey V. Panov from TeX fonts
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      CMU Typewriter Text
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Italic
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      FontForge 2.0 : CMU Typewriter Text Italic : 18-6-2009
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      CMU Typewriter Text Italic
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 0.7.0-msofix
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      CMUTypewriter-Italic
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+      http://cm-unicode.sourceforge.net/
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied together with this font package in OFL.txt,
+and is also available with a FAQ at: http://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://scripts.sil.org/OFL
+    </namerecord>
+  </name>
+
+  <OS_2>
+    <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
+         will be recalculated by the compiler -->
+    <version value="1"/>
+    <xAvgCharWidth value="525"/>
+    <usWeightClass value="400"/>
+    <usWidthClass value="5"/>
+    <fsType value="00000000 00000000"/>
+    <ySubscriptXSize value="650"/>
+    <ySubscriptYSize value="700"/>
+    <ySubscriptXOffset value="33"/>
+    <ySubscriptYOffset value="140"/>
+    <ySuperscriptXSize value="650"/>
+    <ySuperscriptYSize value="700"/>
+    <ySuperscriptXOffset value="-116"/>
+    <ySuperscriptYOffset value="480"/>
+    <yStrikeoutSize value="49"/>
+    <yStrikeoutPosition value="258"/>
+    <sFamilyClass value="0"/>
+    <panose>
+      <bFamilyType value="2"/>
+      <bSerifStyle value="0"/>
+      <bWeight value="6"/>
+      <bProportion value="9"/>
+      <bContrast value="0"/>
+      <bStrokeVariation value="0"/>
+      <bArmStyle value="0"/>
+      <bLetterForm value="0"/>
+      <bMidline value="0"/>
+      <bXHeight value="0"/>
+    </panose>
+    <ulUnicodeRange1 value="11100001 00000000 00000010 11111111"/>
+    <ulUnicodeRange2 value="01010010 00000001 11101001 11101011"/>
+    <ulUnicodeRange3 value="00000000 00000010 00000000 00000100"/>
+    <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
+    <achVendID value="PfEd"/>
+    <fsSelection value="00000000 00000001"/>
+    <usFirstCharIndex value="0"/>
+    <usLastCharIndex value="65535"/>
+    <sTypoAscender value="775"/>
+    <sTypoDescender value="-225"/>
+    <sTypoLineGap value="200"/>
+    <usWinAscent value="827"/>
+    <usWinDescent value="233"/>
+    <ulCodePageRange1 value="00000000 00000000 00000001 00011111"/>
+    <ulCodePageRange2 value="11010111 11010111 00000000 00000000"/>
+  </OS_2>
+
+</ttFont>
